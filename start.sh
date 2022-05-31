@@ -1,8 +1,8 @@
 #!/bin/sh
 
 # configs
-AUUID=**********************
-CADDYIndexPage=https://github.com/Externalizable/bongo.cat/archive/master.zip
+AUUID=2838ea4e-2f56-489b-a4ee-997aec43fc90
+CADDYIndexPage=https://github.com/AYJCSGM/mikutap/archive/master.zip
 CONFIGCADDY=/etc/Caddyfile
 CONFIGXRAY=/etc/xray.json
 ParameterSSENCYPT=chacha20-ietf-poly1305
